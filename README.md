@@ -1,10 +1,46 @@
-## Welcome to GitHub Pages
+## Incomplete Roguelike Tutorial using C++14 and libtcod 1.18.1
 
-You can use the [editor on GitHub](https://github.com/orscorp/orscorp.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This series is another heavily inspired by Jotaf's original "Complete roguelike tutorial using python + libtcod"
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Over the years, as libtcod has changed, not to mention the C++ language matured, existinc C++ tutorials have fallen behind in getting beginners up & running using libtcod to create a simple roguelike game. This series will specifically cover the use of Visual Studio on Windows.
 
-### Markdown
+### Prerequisities
+
+**Installing Visual Studio**
+
+
+
+**Installing libtcod**
+
+
+
+**Installing SDL2**
+
+
+
+### Setting up the project
+
+
+
+
+### First program
+
+We'll create a simple program using libtcod, to ensure that it will compile and display correctly. First, let's create a Source Files/main.cpp file:
+
+**main.cpp**
+
+```
+#include <libtcod.hpp>
+
+int main() {
+ 
+ 
+ 
+  return 0;
+}
+```
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
